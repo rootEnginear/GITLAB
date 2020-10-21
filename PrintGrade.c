@@ -1,3 +1,4 @@
+// Print grade
 #include <stdio.h>
 void main()
 {
