@@ -12,6 +12,7 @@ void main()
   scanf("%d", &YourLotteryNo); 
   while (YourLotteryNo != 0) 
   { 
+    //change here
     won = 0; 
     for (i=0;i<N && !won; i++) 
     {
